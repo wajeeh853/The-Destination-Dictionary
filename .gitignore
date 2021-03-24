@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*/Users/hasan/Desktop/The Destination Dictionary/Notebooks/Capstone_EDA_and_Modeling.ipynb
 # C extensions
 *.so
 
