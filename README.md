@@ -2,12 +2,12 @@
 Find your perfect destination in just a few words.
 ![alt text](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Images/The%20Destination%20Dictionary.png "Logo Title Text 1")
 # Navigation
-[Jupyter Notebook with Data Collection
+- [Jupyter Notebook with Data Collection
 ](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Notebooks/Capstone_Data_Collection.ipynb)
 
-[Scaraped Data](https://github.com/wajeeh853/The-Destination-Dictionary/tree/main/Data)
+- [Scaraped Data](https://github.com/wajeeh853/The-Destination-Dictionary/tree/main/Data)
 
-[Jupyter Notebook with Exploratory Data Analysis (EDA) and Modeling
+- [Jupyter Notebook with Exploratory Data Analysis (EDA) and Modeling
 ](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Notebooks/Capstone_EDA_and_Modeling.ipynb)
 
 # Project Overview
