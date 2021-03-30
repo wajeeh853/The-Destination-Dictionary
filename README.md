@@ -79,7 +79,7 @@ The final model's confusion matrix from the test set is depicted below.
 
 # The Final Product
 
-The Destination Dictionary final product is a dash app hosted on my local machine (soon to be hosted on Heroku as well!). Check out a screenshot below, or see my non-technical walkthrough to see it in action!
+The Destination Dictionary final product is a dash app hosted on my local machine (soon to be hosted on Heroku as well!). Check out a screenshot below, or click the link below to see it in action!
 
 ![alt text](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Images/Screen%20Shot%202021-03-30%20at%2010.52.40%20AM.png "Logo Title Text 1")
 
