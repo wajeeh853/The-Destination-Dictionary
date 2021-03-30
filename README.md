@@ -1,6 +1,8 @@
 # The-Destination-Dictionary
 ![alt text](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Images/The%20Destination%20Dictionary.png "Logo Title Text 1")
 # Navigation
+- [Interactive Dash App](https://the-destination-dictionary.herokuapp.com)
+
 - [Jupyter Notebook with Data Collection
 ](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Notebooks/Capstone_Data_Collection.ipynb)
 
@@ -8,6 +10,9 @@
 
 - [Jupyter Notebook with Exploratory Data Analysis (EDA) and Modeling
 ](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Notebooks/Capstone_EDA_and_Modeling.ipynb)
+
+- [Dash App Repo](https://github.com/wajeeh853/Capstone-Dash-app/tree/main/dash-travel-app-master)
+
 
 - [Slideshow Presentation](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/slideshow%20presentation/slideshow%20presentation.pdf)
 
@@ -74,8 +79,12 @@ The final model's confusion matrix from the test set is depicted below.
 
 # The Final Product
 
-The Destination Dictionary final product will be a dash app to be hosted on my local machine or (to be hosted on Heroku as well!).
+The Destination Dictionary final product is a dash app hosted on my local machine (soon to be hosted on Heroku as well!). Check out a screenshot below, or see my non-technical walkthrough to see it in action!
 
+![alt text](https://github.com/wajeeh853/The-Destination-Dictionary/blob/main/Images/Screen%20Shot%202021-03-30%20at%2010.52.40%20AM.png "Logo Title Text 1")
+
+see the interactive app [here](https://the-destination-dictionary.herokuapp.com)
+See the full dash app repo [here](https://github.com/wajeeh853/Capstone-Dash-app/tree/main/dash-travel-app-master)
 ### Recommendations for Use in the Travel Industry
 
 - Integrate the Destination Dictionary technology into pages where Top Destination lists are published to drive engagement with future travelers and drive traffic to affiliate links
